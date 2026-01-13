@@ -36,12 +36,9 @@ print("11) .sort() with reverse option:")
 
 
 print("\n\n----- part 2, duplicates -----")
-# input a string, determine if any words repeat
-# hint: use .split(" ") to convert to a list
-# then use set() and len()
+
 
 
 
 print("\n\n----- part 3, swap challenge -----")
-# input a string, convert to a list of items
-# swap the first and last item
+
